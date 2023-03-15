@@ -1,3 +1,4 @@
 # Contador-desafio.Vnw
-Created with CodeSandbox
+Created with CodeSandbox.
+
 Desafio  de contador para fixamento da utilização de State, setState,styled-components, e eventos.
